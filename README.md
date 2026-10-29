@@ -3,6 +3,16 @@
 ## Brief description
 A component-based full-stack web app for browsing car models, booking test drives, and managing user accounts and feedback.
 
+## Tech stack
+- NestJS
+- TypeScript
+- MongoDB / Mongoose
+- JWT authentication
+- React
+- Vite
+- Tailwind CSS
+- Axios
+
 ## Project purpose
 Practice component-based development with a NestJS API, MongoDB persistence, and a React + Vite + Tailwind client.
 
